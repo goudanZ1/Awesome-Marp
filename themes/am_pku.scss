@@ -1,0 +1,21 @@
+/* @theme am_pku */
+
+@import "am_template";
+
+:root {
+  --color-code-bg: #fbeeef;
+  --color-coverbg: #94070a;
+  --color-few: #53a7a0;
+  --color-footer: #8c8c8c;
+  --color-main: #211112;
+  --color-much: #8e0608;
+  --color-navbar-bg: #fce9e8;
+  --color-navbar-font: rgb(108, 95, 91);
+  --color-quote: rgba(254, 176, 98, 0.1);
+  --color-title: rgb(255, 255, 255);
+  --color-trans: #e48181;
+}
+
+section.cover_c img {
+  filter: none;
+}

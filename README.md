@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> 本项目基于 [Awesome Marp](https://github.com/favourhong/Awesome-Marp) v1.3，修正了部分样式类的显示效果，添加了一套 [PKU 主题的模版](files/AwesomeMarp_pku.pdf)（主要改动包括调整颜色、修改校徽等），并提供了两个样例 [RandomizedAlgo.pdf](PKU_examples/1/RandomizedAlgo.pdf) 和 [PKUHealthier.pdf](PKU_examples/2/PKUHealthier.pdf)。以下是原仓库的 README 文件：
 
 [✨ README-en](https://github.com/favourhong/Awesome-Marp/blob/main/README-en.md)、[🎉 README-zh](https://github.com/favourhong/Awesome-Marp/blob/main/README.md)
 
